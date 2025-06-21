@@ -6,8 +6,6 @@ scikit-learn
 matplotlib
 tensorflow
 seaborn
-pandas
 joblib
 xgboost
 pydantic
-tensorflow
