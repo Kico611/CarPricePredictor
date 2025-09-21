@@ -69,7 +69,7 @@ CSV dataset -> Preprocessing -> Model Training -> Evaluation -> REST API -> Fron
 
 | Model   | MAE    | RMSE     | R²      |
 |---------|--------|----------|---------|
-| XGBoost | 2,856  | 3,161    | 0.954   |
+| XGBoost | 2,272  | 3,161    | 0.954   |
 
 - **K-Fold cross-validation RMSE (5 folds):** `[3321.56, 3249.48, 3222.84, 3238.52, 3118.30]`  
 - **Prosječni RMSE:** 3,230  
@@ -86,7 +86,7 @@ CSV dataset -> Preprocessing -> Model Training -> Evaluation -> REST API -> Fron
   
 | MAE    | RMSE     | R²      |
 |--------|----------|---------|
-| 2,787  | 2,935    | 0.953   |
+| 2,841  | 4,278    | 0.953   |
 
   **Predikcije vs stvarne vrijednosti:**  
 ![Predictions vs Actual](Notebooks/predictions_vs_actual.png) 
