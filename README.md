@@ -131,8 +131,6 @@ React aplikacija na: http://localhost:5173
 ## 7️⃣ Future Work / Nadogradnje
 🔒 Autentikacija korisnika i pohrana povijesti predikcija
 
-➕ Integracija dodatnih značajki: snaga motora, potrošnja goriva, tip goriva
-
 ⚡ Optimizacija DL modela: fine-tuning, hyperparameter search
 
 ☁️ Cloud deploy i monitoring modela (AWS, Heroku, GCP)
