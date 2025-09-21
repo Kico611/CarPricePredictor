@@ -95,7 +95,7 @@ CSV dataset -> Preprocessing -> Model Training -> Evaluation -> REST API -> Fron
 
 ## 4️⃣ Frontend demo 
 
-🎥 [Pogledajte walkthrough](link_na_video)
+🎥 [Pogledajte walkthrough](https://youtu.be/XHRy7R_lGic)
 
 ---
 
