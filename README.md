@@ -124,8 +124,8 @@ API dostupno na: http://127.0.0.1:8000
 ```bash
 cd Frontend
 npm install
-npm start
-React aplikacija na: http://localhost:3000
+npm run dev
+React aplikacija na: http://localhost:5173
 ```
 
 ## 7️⃣ Future Work / Nadogradnje
